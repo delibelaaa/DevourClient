@@ -67,3 +67,5 @@
 ![](https://i.imgur.com/22XM0Vr.png)
 ![](https://i.imgur.com/85FqabT.png)
 ![](https://i.imgur.com/hPfccOz.png)
+
+<meta name="google-site-verification" content="t0Ss6GzYaEn5b7WJiwuj9WNhb797VUuTNS_LksKJYQM" />
