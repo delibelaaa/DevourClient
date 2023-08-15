@@ -33,8 +33,8 @@
 * Skip long interactions
 * Walk in lobby
 * Custom DiscordRPC
-* Two languages: Russian and English
 * Custom Nameplate
+* Two languages: Russian and English
 
 ## Functions for lobby master:
 
