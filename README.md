@@ -6,8 +6,8 @@
 * Play for your own pleasure, but try not to ruin the game for others.
 
 ## Installation:
-* [Installation guide in Russian](https://telegra.ph/Gajd-po-ustanovke-DevourClient-12-27)
-* [Installation guide in English](https://telegra.ph/DevourClient-installation-guide---ENG-12-27)
+* [Installation guide in Russian](https://telegra.ph/Gajd-po-ustanovke-DevourClienta---RUS-06-29)
+* [Installation guide in English](https://telegra.ph/DevourClient-installation-guide---ENG-06-29)
 
 ### The client is based on [MelonLoader v0.6.1](https://github.com/LavaGang/MelonLoader)
 
