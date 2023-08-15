@@ -9,7 +9,7 @@
 * [Installation guide in Russian](https://telegra.ph/Gajd-po-ustanovke-DevourClient-12-27)
 * [Installation guide in English](https://telegra.ph/DevourClient-installation-guide---ENG-12-27)
 
-### The client is based on [MelonLoader v0.6.0](https://github.com/LavaGang/MelonLoader)
+### The client is based on [MelonLoader v0.6.1](https://github.com/LavaGang/MelonLoader)
 
 ## Functional:
 
@@ -34,29 +34,33 @@
 * Walk in lobby
 * Custom DiscordRPC
 * Two languages: Russian and English
+* Custom Nameplate
 
 ## Functions for lobby master:
 
 * Force start the game
-* Spawn all objects on map
+* Spawn all items
 * Spawn any demon or azazel
+* Spawn any network objects
+* Spawn any AssetBundle by URL
 * Force load any map
 * Use screamer on player
 * Kill player
+* Light/Extinguish altar
+* Burn one cursed entity/object
+* Burn all cursed entities/objects
+* Burn 666 cursed entities/objects
+* Lock the player in a cage
+* Disable/Enable brain of Azazel
 
 ## Map functions:
 
 * TP to Spawn
 * TP to Altar
 * TP to Azazel
-* Light/Extinguish altar
-* Burn one goat/rat/egg/book
-* Burn all goat/rat/egg/book
-* Burn 666 goat/rat/egg/book
 * Take any item on any map
-* Disable/Enable brain of Azazel
 * TP to Players
-* Catch a player in a cage
+
 
 # Some pictures:
 ![](https://i.imgur.com/vlExoOb.png)
