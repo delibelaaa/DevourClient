@@ -42,7 +42,7 @@
 * Spawn all items
 * Spawn any demon or azazel
 * Spawn any network objects
-* Spawn any AssetBundle by URL
+* Spawn any AssetBundle by URL/Path
 * Force load any map
 * Use screamer on player
 * Kill player
