@@ -61,6 +61,8 @@
 * Take any item on any map
 * TP to Players
 
+## Support a Dev
+Patreon: [Kalybr50](https://patreon.com/user?u=46793283&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 # Some pictures:
 ![](https://i.imgur.com/vlExoOb.png)
